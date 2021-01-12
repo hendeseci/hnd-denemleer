@@ -2,4 +2,4 @@
 Cesitli denemeler icin kullanilacak
 
 # author
-Taner CİVELEK
+Taner Civelek
